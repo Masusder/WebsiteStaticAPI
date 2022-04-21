@@ -7,9 +7,8 @@
                     "price": 2000
                 }
             ],
-            "id": "Botany_Knowledge",
+            "id": "FireUp",
             "bloodpointValue": 150000,
-            "experienceValue": 150000,
             "unique": false,
             "purchased": false
         },
@@ -20,9 +19,8 @@
                     "price": 2000
                 }
             ],
-            "id": "DarkDevotion",
+            "id": "HeadOn",
             "bloodpointValue": 150000,
-            "experienceValue": 150000,
             "unique": false,
             "purchased": false
         },
@@ -33,9 +31,8 @@
                     "price": 2000
                 }
             ],
-            "id": "QuickQuiet",
+            "id": "LuckyBreak",
             "bloodpointValue": 150000,
-            "experienceValue": 150000,
             "unique": false,
             "purchased": false
         },
@@ -46,13 +43,12 @@
                     "price": 2000
                 }
             ],
-            "id": "Tinkerer",
+            "id": "Rancor",
             "bloodpointValue": 150000,
-            "experienceValue": 150000,
             "unique": false,
             "purchased": false
         }
     ],
-    "startDate": "2022-03-16T00:00:00",
-    "endDate": "2022-03-22T23:59:59"
+    "startDate": "2022-04-20T00:00:00",
+    "endDate": "2022-04-26T23:59:59"
 }

@@ -1,8 +1,8 @@
 {
     "schedule": [
         {
-            "description": "Default Schedule",
-            "maps_theme_weight": {
+            "Description": "Default Schedule",
+            "MapsThemeWeight": {
                 "Asylum": "1",
                 "Boreal": "1",
                 "Eclipse": "1",
@@ -21,7 +21,7 @@
                 "Ukraine": "1",
                 "Wales": "1"
             },
-            "maps_weight": {
+            "MapsWeight": {
                 "Asy_Asylum": "750",
                 "Asy_Chapel": "750",
                 "Brl_MaHouse": "750",
@@ -54,31 +54,40 @@
                 "Jnk_Scrapyard": "500",
                 "Kny_Cottage": "1000",
                 "Qat_Lab": "0",
-                "Sub_Street": "0",
+                "Sub_Street": "1000",
                 "Swp_GrimPantry": "750",
                 "Swp_PaleRose": "750",
                 "Ukr_Saloon": "1000",
                 "Wal_Level_01": "1000"
             },
-            "priority": "0"
+            "Priority": "0"
         },
         {
-            "description": "JUPITER",
-            "end_date": "2022-02-02T16:00:00",
-            "maps_weight": {
-                "Frm_Barn": "0"
+            "Description": "LIBRA",
+            "EndDate": "2022-04-28T15:00:00",
+            "MapsWeight": {
+                "Sub_Street": "8850"
             },
-            "priority": "101",
-            "start_date": "2022-01-25T16:00:00"
+            "Priority": "101",
+            "StartDate": "2022-04-27T15:00:00"
         },
         {
-            "description": "JUPITER",
-            "end_date": "2022-02-02T16:00:00",
-            "maps_weight": {
-                "Asy_Chapel": "0"
+            "Description": "LIBRA",
+            "EndDate": "2022-05-01T15:00:00",
+            "MapsWeight": {
+                "Sub_Street": "3000"
             },
-            "priority": "102",
-            "start_date": "2022-01-25T16:00:00"
+            "Priority": "102",
+            "StartDate": "2022-04-28T15:00:01"
+        },
+        {
+            "Description": "LIBRA",
+            "EndDate": "2022-05-03T15:00:00",
+            "MapsWeight": {
+                "Jnk_Scrapyard": "122"
+            },
+            "Priority": "103",
+            "StartDate": "2022-04-27T15:00:00"
         }
     ]
 }

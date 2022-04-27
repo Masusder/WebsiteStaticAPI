@@ -7,7 +7,7 @@
                     "price": 2000
                 }
             ],
-            "id": "FireUp",
+            "id": "BBQAndChilli",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -19,7 +19,7 @@
                     "price": 2000
                 }
             ],
-            "id": "HeadOn",
+            "id": "BuckleUp",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -31,7 +31,7 @@
                     "price": 2000
                 }
             ],
-            "id": "LuckyBreak",
+            "id": "Lightborn",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -43,12 +43,12 @@
                     "price": 2000
                 }
             ],
-            "id": "Rancor",
+            "id": "RedHerring",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
         }
     ],
-    "startDate": "2022-04-20T00:00:00",
-    "endDate": "2022-04-26T23:59:59"
+    "startDate": "2022-04-27T00:00:00",
+    "endDate": "2022-05-03T23:59:59"
 }

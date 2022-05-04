@@ -7,7 +7,7 @@
                     "price": 2000
                 }
             ],
-            "id": "BBQAndChilli",
+            "id": "BorrowedTime",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -19,7 +19,7 @@
                     "price": 2000
                 }
             ],
-            "id": "BuckleUp",
+            "id": "HexRetribution",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -31,7 +31,7 @@
                     "price": 2000
                 }
             ],
-            "id": "Lightborn",
+            "id": "MonitorAndAbuse",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
@@ -43,12 +43,12 @@
                     "price": 2000
                 }
             ],
-            "id": "RedHerring",
+            "id": "Sprint_Burst",
             "bloodpointValue": 150000,
             "unique": false,
             "purchased": false
         }
     ],
-    "startDate": "2022-04-27T00:00:00",
-    "endDate": "2022-05-03T23:59:59"
+    "startDate": "2022-05-04T00:00:00",
+    "endDate": "2022-05-10T23:59:59"
 }

@@ -58,7 +58,7 @@
                 "Swp_GrimPantry": "750",
                 "Swp_PaleRose": "750",
                 "Ukr_Saloon": "1000",
-                "Wal_Level_01": "1000"
+                "Wal_Level_01": "30"
             },
             "Priority": "0"
         },
@@ -73,18 +73,18 @@
         },
         {
             "Description": "LIBRA",
-            "EndDate": "2022-05-01T15:00:00",
-            "MapsWeight": {
-                "Sub_Street": "3000"
-            },
-            "Priority": "102",
-            "StartDate": "2022-04-28T15:00:01"
-        },
-        {
-            "Description": "LIBRA",
             "EndDate": "2022-05-03T15:00:00",
             "MapsWeight": {
                 "Jnk_Scrapyard": "122"
+            },
+            "Priority": "102",
+            "StartDate": "2022-04-27T15:00:00"
+        },
+        {
+            "Description": "LIBRA",
+            "EndDate": "2022-06-07T15:00:00",
+            "MapsWeight": {
+                "Wal_Level_01": "30"
             },
             "Priority": "103",
             "StartDate": "2022-04-27T15:00:00"
